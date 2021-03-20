@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @son3ca55
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Michael Silva
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning ... c#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... silva.michael2013@gmail.com
+
 
 <!---
 son3ca55/son3ca55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
