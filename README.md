@@ -1,3 +1,6 @@
+![github-header-image](https://github.com/michaelssilva/michaelssilva/assets/80490622/8dea74e1-3807-446c-a18e-b9f9005ee739)
+
+
 - 👋 Hi, I’m Michael Silva
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning ... c#
